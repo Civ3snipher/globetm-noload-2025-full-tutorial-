@@ -1,4 +1,4 @@
-hereTutorial gtm no load 
+Tutorial gtm no load 
 
 1. FIRST SET UP APN SETTING IPV6 ONLY ON YOUR PHONE SETTING
 
@@ -12,17 +12,21 @@ Pasword: 666
 
 4.Copy all dnstt client server Isa Isa lng Pag copy Ng server saka import sa dnstt client 👇👇
 
-Sg1- 
+Sg1- 👇👇
 
-dnstt://XS8grUd+1pU/BHHSMS8jZXS58INpI52VjTs+qeKtrsqjMkiwVQO/ILcybNBAixf81Y9VmYBkVc/u5F9C5CpMNsOLeLgu1G1jhggjDF6V5owXdCm4TTqaTpTbQ5cWNtIeatU/omlRu2iqrNwDZKVD7rxcwKp6d6X3Yj9vmVlAkyQVCSG//uCrbm0X/OOJw3LVG6oRfsv0QydUi1OtFyJuYKA6RN1Dyeyfen6lvETB+DuDZwbk4huWDXB0HZjVp7Lz6jZtJqgLVOirsIbOcGu+xHjBq2V1NSxfD8I7Yy/k4sA=
+dnstt://gH3sA3HVlFRFn+Q/X3aHQcwoQFOG2mu805JoAOTrL82g5F0S4EV+YXihADg3g9h1zhfuW/itTGSx+vLtMY6az8yNQDVOXg4KfXo0oc1fAIrvMp6srzGgd2ZTiE6i2WXXHrCSriPvVL1STUe+0aJVnIh8UClL4WzGnaPy9igOqLvgdP3yUODL9T+ioUERvpJZP6YlgaL+HWcNXsxK/BXm34fB8for22NaLWonpETKAIKotaygoZ9r7i0TCK9tCnist9CbzdOWIjrKL45eg3yEm1RcxcKvirEy9cbBNaM4MyI=
 
-Sg2-
+Sg2-👇👇
 
-dnstt://0JrF8nDbY6YCA5sgN4FIi4/abbOj70Q+uG4S8kJnKct890mc5Bq0sGpRSAqdWDSO9S4bI6eJwzDrKUSt2ug3zyZG+2STxBxTHd0OjyU2nAESiXSTyyVHxxWEWkpZC2svANVQTSSk/2/TF2MKWSQDyjRsEFGE60uksJyUjYxg8pP/nU9utrddjgq3pe0nR84FIvTvnLSnYF38pNJy1ElDPePcWR6HIAPjWFWdFvyTFnsAfTP2TTt2pBIw4a8Mp35aIrlPIRCQ3KpL+YLZMcVuZvR4XPLEkat5nkhNc41Ah3k=
+dnstt://ar8g1nY94T+005gn7Q073zsaSBqkaGnpG4Nl0pGYiVgDZEVcCrSC+bwIjGBlmek8BHAYBlEg0xmjBxOMMXJgdrOeeHoxB85113dD5KUUWSecOGFkoRGGnxEv/qBWge2ShG8lW6tfmMnTRtrhlZTzkBRH3/qjyhhh5tw4qGxrwSQ4oSDXihMV05BfaUz2+c/+FOmrLhLhl6CnxjVGoTG66Zen6cOH8ZvEv5Aq4JCjMfauiK0rHebDSIT7MTLvWwFaEEGBsJ0qmKdXMD3cL4ow5z4JsN2aOEIvjuBFRaVIg3o=
 
-USA-
+USA-👇👇
 
-dnstt://xGut1fz8Foc1R2CfA5Eew++WavvwYrQmq8bC5LBKK8ytVDnmK04/mxnuY4R6CY8kDRC2R1T3Xah/t54HguurGaQ2rM0ZAWL6heT9DNYv2mxwKqQ6YudIfisdTJJmKdZUVC31AYCHoGUYebCuEIVW+DUX3FUVyIuQnoxLZLBxyEnVzFFl/mxF6RvBZsXnzTJineGiPgN2Unx1eg5VCWwpQf117T5P+8xLkqFqe5nL2FTWWTkuYuO4wmk7gm7D/5ezPatL1I/tY1UpW6tQsJZu1Hr0yvZCBLLNbYW7AB0bPjM=
+dnstt://g+OwCxuK+jdNYZ6j6Qc2NrijNRLxKlrsnz/5rcIXfgYZd43i6hsmya7ASRJ/lnIqDqvB5M+mvXOLqhMTuuT+bQCabzBuO4MrTP/k5lV2Rfg+fIf3FfHufqo/PkTsxYRo54y1LT+AkrrcL7ZvuN5Jt2emssvAiR29RodOIILNrLVevUGg6Gaq+7Cf/ESs67uyJr8R6jupFOnHc/RSbDgYPJKyisIclbHHS2/zx5pnWKUzVnh+2H0kEKmrhPKk1avKidQRVx90/c12tnINianA0AUiuE6LWUwbBhtWb2XW6Kw=
+
+piso wifi config👇👇
+
+dnstt://falFTksvBCSLOrFJiOj5RSjGKVA3CFUCvBa+91SOtZpfbXXtJfrhMs+o4M4O/O153wH1FXnosXP5Z2hLLfddR3H09/uaVUMRgokiqI4LDolgDKMWssJqlodtQXsmHuEegf0Tddmj8Zf+9guGlQEGWmI+GwFEjcUNPNmRf/Knw7yAFw9r8yOOAIGzZWbWBvebLmI7MBiPpHm6YHrme4DAK4POo5vKBCJziF+0rN9ov9Q=
 
 3.open dnstt client click + sign sa TaaS and click via clip board
 
