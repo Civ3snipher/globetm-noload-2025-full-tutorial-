@@ -1,0 +1,1 @@
+# globetm-noload-2025-full-tutorial-
