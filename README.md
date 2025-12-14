@@ -4,7 +4,7 @@ Tutorial gtm no load
 
 2.install latest dnstt client👇👇
 
-https://www.mediafire.com/file/h2760o5oh
+[https://www.mediafire.com/file/h2760o5oh](https://www.mediafire.com/file/h2760o5ohdev2ic/DNSTT_v2.0.8b+(1).apk/file)
 
 3.HOLD APP ICON ON DNSTT SELECT BATTERY USSAGE TURN ON allow background activity then save
 
