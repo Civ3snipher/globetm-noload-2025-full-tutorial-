@@ -4,9 +4,7 @@ Tutorial gtm no load
 
 2.install latest dnstt client👇👇
 
-https://dropmb.com/s/SX1P
-
-Pasword: 666
+https://www.mediafire.com/file/h2760o5oh
 
 3.HOLD APP ICON ON DNSTT SELECT BATTERY USSAGE TURN ON allow background activity then save
 
